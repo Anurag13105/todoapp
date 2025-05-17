@@ -65,11 +65,12 @@ This will start the backend server at [http://localhost:8000](http://localhost:8
 ---
 
 ## 📬 Contact
+anurag23112@iiitd.ac.in
 
-For any queries or suggestions, feel free to create an issue or submit a pull request.
+## ChatGpt Chat links
+*https://chatgpt.com/share/682896d3-84c0-8001-8687-95ee7204fc88
 
----
 
-## 📄 License
 
-This proj
+
+
